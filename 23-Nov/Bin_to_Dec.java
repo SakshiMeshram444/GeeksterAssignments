@@ -1,3 +1,4 @@
+//problems on array
 import java.util.Scanner;
 public class Bin_to_Dec {
 public static void main(String[] args) {
