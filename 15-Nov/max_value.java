@@ -1,3 +1,4 @@
+//MAX Value
 import java.util.Scanner;
 public class max_value {
 	//two integer argument
