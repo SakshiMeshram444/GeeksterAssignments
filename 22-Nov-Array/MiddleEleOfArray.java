@@ -1,3 +1,4 @@
+//program
 import java.util.Scanner;
 public class MiddleEleOfArray {
 public static void main(String[] args) {
