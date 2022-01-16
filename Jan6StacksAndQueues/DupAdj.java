@@ -1,5 +1,5 @@
 public class DupAdj {
-    public static String removeAdjDup(String str)
+     static String removeAdjDup(String str)
     {
         // base case
         if (str == null || str.length() == 0) {

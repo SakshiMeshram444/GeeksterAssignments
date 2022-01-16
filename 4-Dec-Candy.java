@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 public class Candy {
 	public String taste()
 	{
